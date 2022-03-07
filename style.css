@@ -28,7 +28,7 @@ body {
 	--color-text: #d05400;
     --color-bg: #0c0c0c;
     --color-link: #6b5537;
-	--color-link-hover: #fff;
+	--color-link-hover: #ffffff;
 	--color-content-title-sub: #f81313;
     color: var(--color-text);
     background-color: var(--color-bg);
